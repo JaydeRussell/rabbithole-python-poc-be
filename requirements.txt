@@ -3,3 +3,4 @@ yoyo-migrations
 pyramid
 wsgicors
 waitress
+pyramid_duh

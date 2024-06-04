@@ -1,5 +1,6 @@
 from waitress import serve
 from pyramid.config import Configurator
+
 from wsgicors import CORS
 from yoyo import read_migrations, get_backend
 from constants import DB_CONNECTION_STRING, MIGRATION_PATH
