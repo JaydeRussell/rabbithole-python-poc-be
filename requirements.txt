@@ -1,0 +1,6 @@
+psycopg2-binary
+yoyo-migrations
+pyramid
+wsgicors
+waitress
+pyramid_duh
